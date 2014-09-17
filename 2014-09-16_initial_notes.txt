@@ -1,0 +1,3 @@
+1. recreate my cb-innovation project using rails and js
+2. include the salary tracker
+3. include the survey of meeting worthiness. 
